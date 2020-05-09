@@ -11,6 +11,10 @@ Although the Apacs + / Quadlogs have reached the end of their useful life, by th
 
 Given the quality and robustness of this equipment, there are surely many in operation around the world.
 
+
+![Apacs arquitecture](https://raw.githubusercontent.com/glcj/Apacs/master/docs/img/apacs.png)
+
+
 From the diagram shown we can point out how the use of these libraries is integrated into the control architecture.
 
 For example, if the control architecture already includes the migration process to PCS7, the EMI [2] must be incorporated, allowing the connection to the controllers via Ethernet. If the EMI exist, all communications are routed through these computers.
