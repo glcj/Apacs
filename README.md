@@ -17,7 +17,7 @@ Given the quality and robustness of this equipment, there are surely many in ope
 
 From the diagram shown we can point out how the use of these libraries is integrated into the control architecture.
 
-For example, if the control architecture already includes the migration process to PCS7, the EMI [2] must be incorporated, allowing the connection to the controllers via Ethernet. If the IEM exist, all communications are routed through these computers.
+For example, if the control architecture already includes the migration process to PCS7, the IEM [2] must be incorporated, allowing the connection to the controllers via Ethernet. If the IEM exist, all communications are routed through these computers.
 
 
 If you do not have the IEM, in addition to the Toolkit, you must have a Part # 16413-51 PCI-Type M-BUS Interface (MBI-PCI) Card on your PC. In this way, the Gateway indicated in the diagram would be implemented.
